@@ -1,1 +1,1 @@
-# Notebook-Series-Machine-Learning-AI-Tasks
+Welcome to the Notebook Series repository! This collection of Jupyter notebooks covers various machine learning tasks, aimed at providing practical examples and insights into different ML techniques and applications.
